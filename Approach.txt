@@ -1,0 +1,37 @@
+Topic: Marvel quiz
+Discription: There will be 5 quetions, user will need to answer. If answers matches with any character then user will  be shown answer. if answers do not match then user will be shown "no character found"
+
+quetions:Are you from earth?
+         Are you male?
+         Are you with the avengers?
+         Do you have superpowers?
+         Are you a god?
+
+Points for each quetions: 1, 2, 4, 8, 16
+
+Each character will have scores: 
+Hulk: 15
+Groot: 12
+Thanos: 2
+Natasha: 5
+Odin:30
+
+
+If answer is yes then given points would be added to final scores.
+else score for that quetion will stored as zero
+
+Function example:
+Are you from earth? Yes- 1 points
+Are you male? No 0 points
+Are you with the avengers? Yes 4 points
+Do you have superpowers? No 0 points
+Are you a god? No 0 points
+
+Total points: 5
+
+Answer: Natasha
+
+
+
+
+
